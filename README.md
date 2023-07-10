@@ -1,2 +1,2 @@
 # rtsmapping
-mapping retrogressive thaw slumps in the arctic using satellite imagery
+repo moved to https://github.com/yclipse/RTS_mapping
